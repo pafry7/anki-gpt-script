@@ -1,0 +1,6 @@
+.env.local
+
+# files but include example
+*.txt
+!example_file.txt
+ 
